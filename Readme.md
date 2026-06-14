@@ -1,3 +1,7 @@
+
+
+
+<img width="900" height="444" alt="Zrzut ekranu 2026-06-15 003652" src="https://github.com/user-attachments/assets/9f1da375-9996-4a6d-843e-fe9c615d5a92" />
 # FX Checker - Foreign Exchange Dashboard
 
 A modern, responsive, and interactive foreign exchange rate checker and converter. This application provides real-time currency data, historical trends, and personal organization features for financial tracking.
